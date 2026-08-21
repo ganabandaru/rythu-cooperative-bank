@@ -94,8 +94,8 @@ and addresses are generated from hand-built Telangana-region pools.
 
 ## 🔗 Links
 
-- **Portfolio / Case Study:** _(add your GitHub Pages link here)_
-- **LinkedIn build-in-public series:** _(add your LinkedIn post links here)_
+- **Portfolio / Case Study:** _(https://github.com/ganabandaru/rythu-cooperative-bank/edit/main/README.md)_
+- **LinkedIn build-in-public series:** _(https://www.linkedin.com/in/ganapathi-bandaru-7b2842316 )_
 
 ---
 
